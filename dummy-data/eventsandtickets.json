@@ -1,0 +1,136 @@
+{
+  "responseData": {
+    "GB": [
+      {
+        "event": {
+          "id": "960465228317855744",
+          "categoryId": "248465898661220352",
+          "category": "Music:Festivals",
+          "eventStart": "2018-08-16T09:00:00Z",
+          "notInHandReleaseDate": "2018-08-02T11:00:00Z",
+          "eventEnd": "2018-08-16T09:00:00Z",
+          "date": "2018-08-16",
+          "doorsOpen": "",
+          "showStartingTime": "10:00:00",
+          "eventName": "Green Man Festival 2018",
+          "eventGroupName": null,
+          "participants": [],
+          "venueId": "615524925796519936",
+          "sellingCutoffHours": 0,
+          "venue": {
+            "id": "615524925796519936",
+            "name": "Brecon Beacons",
+            "aliases": null,
+            "address": null,
+            "locationId": "248466282129657856",
+            "location": {
+              "id": "248466282129657856",
+              "name": "Brecon, Powys, UK",
+              "shortName": "Brecon",
+              "countryCode": "GB",
+              "latitude": 51.947,
+              "longitude": -3.39,
+              "regionCode": "GBWA",
+              "dateTimeZone": "Europe/London"
+            },
+            "postcode": "NP8 1LP",
+            "phoneNumber": null,
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "pointer": null,
+            "facebookPage": null,
+            "twitterName": null,
+            "verified": false,
+            "venueSeatLayout": "SEQUENTIAL"
+          },
+          "partnerEvent": false,
+          "partnerEventSellUrl": null,
+          "partnerEventBuyUrl": null,
+          "pricing": true,
+          "pointer": null,
+          "cancelled": false,
+          "prohibited": false,
+          "flagged": false,
+          "queueEnabled": false,
+          "sellerCustomCopy": "Please note: for this event you may list tickets before you’ve received them. Please send them to the buyer as soon as you receive them, at the latest 7 days before the event. Failure to deliver in this timeframe could result in you being charged an admin fee.\n",
+          "eticketSellerCustomCopy": "If you have not yet received the e-ticket(s), please upload a PDF version of your purchase confirmation email on the following page. You will then need to forward the e-ticket(s) to your buyer once you have received them. \n",
+          "paperSellerCustomCopy": " ",
+          "buyerCustomCopy": "Please note: These tickets aren't yet ready for dispatch. Your seller will receive the tickets from the original ticket retailer approximately two weeks before the event. They will deliver these tickets ASAP once they've received them. \n\nAll Green Man tickets are now sold out and only resale tickets are available. If you need a child ticket please purchase a listing on Twickets that includes one.\n\n\n",
+          "eticketBuyerCustomCopy": "E-tickets will be forwarded to you via email once your seller has received them. \n",
+          "paperBuyerCustomCopy": null,
+          "facebookPage": null,
+          "twitterName": null,
+          "privateEvent": false,
+          "utnSetup": {
+            "status": "NONE",
+            "regex": ""
+          }
+        },
+        "blocks": [
+          {
+            "blockId": "967243815176083",
+            "eventId": "960465228317855744",
+            "created": "1532266964236",
+            "expires": "1534093200000",
+            "ticketKind": 0,
+            "ticketType": 1,
+            "ticketsAvailableAtListing": false,
+            "dateExpectedIfNotAvailableAtListing": "1533168000000",
+            "sellerSupportedDeliveryMethodIds": [
+              "0"
+            ],
+            "sellerSupportedDeliveryMethods": [
+              0
+            ],
+            "priceTier": "Multiple Price Bands",
+            "ticketQuantity": 3,
+            "minPrice": {
+              "currencyCode": "GBP",
+              "amountInCents": 15500
+            },
+            "averagePrice": {
+              "currencyCode": "GBP",
+              "amountInCents": 17000
+            },
+            "maxPrice": {
+              "currencyCode": "GBP",
+              "amountInCents": 20000
+            },
+            "originalSellingPrice": {
+              "currencyCode": "GBP",
+              "amountInCents": 20000
+            },
+            "previousSellingPrice": {
+              "currencyCode": "GBP",
+              "amountInCents": 20000
+            },
+            "priceDeclaration": 1,
+            "generalMinAge": 19,
+            "standingAreaMinAge": 0,
+            "supervisorRequiredUnder": 0,
+            "additionalInformation": [
+              1,
+              2
+            ],
+            "ticketsAdditionalInformation": [
+              [
+                1
+              ],
+              [
+                1
+              ],
+              [
+                2
+              ]
+            ],
+            "twicketsFeePerTicket": null,
+            "seatAssigned": false
+          }
+        ]
+      }
+    ]
+  },
+  "responseCode": 100,
+  "description": "OK",
+  "clock": "1532371608249"
+}
